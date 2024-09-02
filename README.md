@@ -1,6 +1,6 @@
 # 💫 About Me:
-# 💫 <span style="color:#ff6347">Web developer</span><br>
-Custom Rom Developer
+# 🌐💻 <span style="color:#ff6347">Web developer🕸️🛠️</span><br>
+# 📱🤖 <span style="color:#ff6347">Custom Rom Developer🛠️🛡️</span>
 
 
 ## 🌐 Socials:
