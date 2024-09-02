@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web developer<br>
+# 💫 <span style="color:#ff6347">Web developer</span><br>
 Custom Rom Developer
 
 
