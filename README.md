@@ -1,5 +1,6 @@
 # 💫 About Me:
-Learning<br>
+Web developer<br>
+Custom Rom Developer
 
 
 ## 🌐 Socials:
